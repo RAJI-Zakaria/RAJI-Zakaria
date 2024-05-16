@@ -1,8 +1,8 @@
 ## Hello there! 👋, I'm **Zakaria RAJI**
-### Full-Stack Developer | Aspiring Innovator
+### IT Engineer | Full-Stack Developer | Aspiring Innovator
 
 #### Skills: 
-React JS | React Native | Next JS | SQL | DHTML | Design {Figma / XD}
+React JS | Next JS | React Native | SQL | DHTML | Design {Figma / XD}
 
 🔭 Currently, I'm pursuing my IT engineering degree at ENSSAT as an apprentice.
 
