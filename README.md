@@ -4,7 +4,7 @@
 #### Skills: 
 React JS | Next JS | React Native | SQL | DHTML | Design {Figma / XD}
 
-🔭 Currently, I'm pursuing my IT engineering degree at ENSSAT as an apprentice.
+🔭 Currently, I'm pursuing my IT engineering degree at ENSSAT as an apprentice (2021-2024).
 
 🌱 Actively engaged as a Full-Stack "JS" developer, passionate about crafting seamless web experiences.
 
