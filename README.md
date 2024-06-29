@@ -10,7 +10,7 @@ React JS | Next JS | React Native | SQL | DHTML | Design {Figma / XD}
 
 💪 Seeking collaborations on innovative projects spanning web, mobile, desktop, and design realms.
 
-🤔 Eagerly seeking an internship opportunity to broaden my knowledge and enhance my English proficiency.
+🤔 Eagerly seeking an opportunity to broaden my knowledge and enhance my English proficiency.
 
 📫 Connect with me via GitHub or LinkedIn for a conversation!
 
