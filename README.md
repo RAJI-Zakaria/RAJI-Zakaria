@@ -1,8 +1,8 @@
 ## Hello there! 👋, I'm **Zakaria RAJI**
 ### IT Engineer | Full-Stack Developer | Aspiring Innovator
 
-#### Skills: 
-React JS | Next JS | React Native | SQL | DHTML | Design {Figma / XD}
+#### Skills: Full-Stack JS/TS & Mobile Cross Platform
+React JS | Next JS | React Native | SQL | DHTML | Design {Figma / XD} | Docker Compose | AWS EC2 | VPS | SSH | NGINX 
 
 🔭 Currently, I'm pursuing my IT engineering degree at ENSSAT as an apprentice (2021-2024).
 
