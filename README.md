@@ -24,7 +24,7 @@ React JS | Next JS | React Native | SQL | DHTML | Design {Figma / XD} | Docker C
 
 ## Certifications
 
-<a href="https://github.com/RAJI-Zakaria">
+<a href="./assets/certificate-of-completion-for-the-ultimate-docker-course.pdf">
   <img src="./assets/docker.png" alt="docker-certification" height="140">
 </a>
 <a href="./assets/certificate-of-completion-for-mastering-next-js-13-with-typescript.pdf">
